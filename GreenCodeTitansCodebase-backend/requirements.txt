@@ -1,0 +1,10 @@
+beautifulsoup4
+fastapi
+gunicorn
+newspaper3k
+numpy
+Pillow
+pydantic
+python-dotenv
+requests
+uvicorn
